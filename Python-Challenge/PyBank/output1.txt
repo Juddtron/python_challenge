@@ -1,0 +1,7 @@
+Financial Analysis
+---------------------
+Total Months: 86
+Total: $22564198
+Average Change: $4448.13
+Greatest Increase in Profits: {'Date': 'Feb-17', 'Profit/Losses': '382539'} ($['Aug-16', 1862002])
+Greatest Decrease in Profits: {'Date': 'Feb-17', 'Profit/Losses': '382539'} ($['Feb-14', -1825558])
